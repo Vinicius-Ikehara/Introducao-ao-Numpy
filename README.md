@@ -1,2 +1,2 @@
-# Introdu-o-ao-Numpy
+# Introducao ao Numpy
 Curso Alura: Python para data science - introdução ao Numpy
